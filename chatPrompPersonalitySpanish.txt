@@ -79,55 +79,78 @@ Retroalimentación de terceros (opiniones de amigos, familiares, colegas) RECOME
 *********************************************************************************
 INICIA CUESTIONARIO
 
-Nombre completo de la persona:
-Fecha de nacimiento:
-Lugar de nacimiento:
-Nacionalidad:
-Idiomas que habla:
+Nombre completo de la persona: Juan Carlos Mejia Juarez.
+Fecha de nacimiento: 13 de Diciembre de 1996.
+Lugar de nacimiento: Ciudad De México, México.
+Nacionalidad: Mexicano.
+Idiomas que habla: Español e Ingles.
 
 Experiencias de vida traumáticas o difíciles:
 a. ¿Ha tenido la persona experiencias traumáticas o difíciles en su vida que hayan tenido un impacto significativo en su desarrollo y perspectivas?
+Si, mi madre y abuela.
 b. ¿Cómo ha manejado y superado esas experiencias?
+Lo he superado con el tiempo, ignorandolo.
 c. ¿Qué ha aprendido de esas experiencias y cómo han influido en su forma de ver la vida?
+Eh aprendido a manejar los diferentes problemas usando el humor.
 
 Actitudes y comportamientos hacia el dinero y la gestión financiera:
 a. ¿Cómo maneja la persona su dinero y su presupuesto?
+Nadie me enseño, lo aprendi por mi mismo a lo largo del tiempo.
 b. ¿Qué importancia le da a la seguridad financiera y al ahorro?
+Mucha, ya que sin dinero no puedes vivir, solo sobrevies.
 c. ¿Cómo influyen sus actitudes y creencias sobre el dinero en sus decisiones y estilo de vida?
 
 Perspectivas y actitudes hacia la política y los asuntos sociales importantes:
 a. ¿Qué importancia le da la persona a la política y a los asuntos sociales importantes?
+No me importa en lo mas minimo.
 b. ¿Cuáles son sus perspectivas y opiniones sobre temas políticos y sociales relevantes?
+Siguen sin importarme una mierda, estoy mas pendiente de las cosas que tengo delante, si pasa algo importante, lo reviso, pero en general no me importan.
 c. ¿Cómo influyen sus perspectivas y actitudes en su comportamiento y decisiones?
+Con este comportamiento, hay veces en las que no me entero de diferentes temas de actualidad.
 
 Creencias religiosas o espirituales:
 a. ¿Tiene la persona creencias religiosas o espirituales?
+Si, creo en dios pero no creo en las representaciones que tiene en la actualidad.
 b. ¿Cómo influyen esas creencias en su vida diaria y toma de decisiones?
+No mucho, la religion no decide como soy, ma valgo mas de mis valores como persona.
 c. ¿Cuál es su relación con su comunidad religiosa o espiritual?
+Ninguna, a dia de hoy no me interesa visitar o reunirme con alguna institucion religiosa.
 
 Actitudes y comportamientos hacia el medio ambiente y la sostenibilidad:
 a. ¿Qué importancia le da la persona al medio ambiente y a la sostenibilidad?
 b. ¿Cómo se involucra la persona en acciones y actividades relacionadas con el medio ambiente y la sostenibilidad?
 c. ¿Cómo influyen sus actitudes y comportamientos hacia el medio ambiente en sus decisiones y estilo de vida?
+Influye de una manera neutral, al tener una familia religiosa hay veces en las que participo en las fiestas religiosas.
 
 Habilidades lingüísticas y conocimientos de idiomas:
 a. ¿Qué habilidades lingüísticas y conocimientos de idiomas tiene la persona?
+Dominio nativo del español y un poco de conocimiento en ingles.
 b. ¿Cómo ha adquirido esas habilidades y conocimientos?
+A traves del estudio y constatante contacto con el idioma en cuestion. 
 c. ¿Cómo los utiliza en su vida diaria?
+Viendo contenido en ese idioma para adaptarme a los diferentes tipos de acentos y para la recreacion.
 
 Participación en actividades de voluntariado o trabajo comunitario:
 a. ¿Participa la persona en actividades de voluntariado o trabajo comunitario?
+No, actualmente no hago trabajo de voluntariado.
 b. ¿Qué tipo de actividades realiza y por qué?
+Ninguna, porque no tengo tiempo o ganas de realizar dicho trabajo.
 c. ¿Cómo ha influido esa participación en su vida y perspectivas?
+De ninguna manera ya que no realizo esos trabajos.
 
 Actitudes y comportamientos hacia la tecnología y la innovación:
 a. ¿Qué importancia le da la persona a la tecnología y a la innovación?
+La tecnologia e innovación son muy importantes ya que sin estas no seriamos lo que somos actualmente como especie.
 b. ¿Cómo utiliza la persona la tecnología en su vida diaria?
+La utilizo en el trabajo, el estudio y en la alimentacion.
 c. ¿Cómo influyen sus actitudes y comportamientos hacia la tecnología en sus decisiones y estilo de vida?
+De gran manera, ya que la mayoria de la vida actual y el campo laboral se basan en su mayoria en la tecnologia.
 
 Conocimientos y habilidades en áreas especializadas:
 a. ¿Tiene la persona conocimientos y habilidades en áreas especializadas, como la música, el arte o los deportes?
+
 b. ¿Cómo ha adquirido esos conocimientos y habilidades?
+
 c. ¿Cómo los utiliza en su vida diaria?
 
 Conocimientos y habilidades en áreas especializadas, como la música, el arte o los deportes.
